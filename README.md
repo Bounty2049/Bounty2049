@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bounty2049
-- 👀 I’m interested in data sciense
-- 🌱 I’m currently learning Python, NumPy, Matplotlib 
+- 👀 I’m interested in data sciense, web, especialy in backend developig 
+- 🌱 I’m currently learning Python, Django, HTML, CSS, Django REST fw 
 - 💞️ While nothing ...
 - 📫 While nothing ...
 
